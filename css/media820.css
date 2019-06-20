@@ -1,0 +1,28 @@
+.contenedor{
+    width:100%;
+}
+
+.articulos{
+    display:block;
+}
+
+article{
+    width:100%;
+}
+
+article .imagenArticulo{
+
+    width:calc(50% - 10px);
+
+}
+
+aside{
+    width:100%;
+}
+
+.nav{		    
+    display:flex;		    
+    justify-content:space-around;		  
+
+}
+

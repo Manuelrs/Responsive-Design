@@ -1,0 +1,33 @@
+article .imagenArticulo{		
+    width:calc(100% - 10px);		
+}
+
+.nav{
+    display:none;
+    position:relative;
+    margin-top:0;
+}
+
+.nav ul{
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+    width:100%;
+}
+
+.cinta{
+    width:155px;
+    top: 29px;
+    left: -36px;
+}
+
+.desplegable{
+    display:block;
+    width:100%;
+    background-color: black;
+    margin-top:10px;
+    padding:10px;
+}
+.icon{
+    color:white;		    
+}
